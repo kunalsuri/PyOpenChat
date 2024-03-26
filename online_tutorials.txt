@@ -1,0 +1,5 @@
+## List of some interesting tutorials to check out
+https://www.youtube.com/@decoder-sh/videos
+https://www.youtube.com/watch?v=WZDIN72ANZ4
+https://github.com/dataprofessor/llama2/blob/master/streamlit_app.py
+https://github.com/MrSentinel137/gemini-ollama-RAG
